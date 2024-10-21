@@ -1,3 +1,5 @@
+The project idea and details were taken from roadmap.sh: https://roadmap.sh/projects/task-tracker
+
 About: This is task tracker made with java, to use commands use these as arguments in command line
 Available commands:
 	--help or -h: Outputs help.
